@@ -52,7 +52,7 @@ signs data set:
 First, randomly plot some traffic sign images.
 ![Visualization of the dataset][image1]
 
-Then, plott the count of each sign.Here are three exploratory visualization of the data set. 
+Then, plot the count of each sign.Here are three exploratory visualization of the data set. 
 Thses are  bar charts showing how the data distribute among 43 classes in train, valid and test set.
 
 ![alt text][image2]
@@ -251,8 +251,7 @@ It may give us another perspective to understand CNN model(intuition). First det
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 1.00000000e+00         			| Traffic signals  									| 
-| 3.00397573e-09    				| Road narrows on the right 		
-								|
+| 3.00397573e-09    				| Road narrows on the right 										|
 | 4.93576069e-10					| Bumpy road										|
 | 5.23642286e-17	      			| Slippery road				 				|
 | 6.24494182e-30				    | General caution  |
